@@ -4,7 +4,7 @@ This repository holds my programming projects done during the period of stanCode
 
 ## Project Source Codes:
 *[Hangman Game](https://drive.google.com/file/d/1AtkL8MnjFDd_Kg6vYiNn3Lh41Ml2rjRy/view?usp=sharing)\
-  - python semantics & syntax\
+  - python semantics & syntax
 *[Breakout Game](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing)\
   - animation & game designing\
 *[Name_Popularity_Searching_System](https://drive.google.com/file/d/15njGxR2sIMNQ4ClMTGww27taTkEDm9o7/view?usp=sharing)\
