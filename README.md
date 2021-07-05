@@ -1,8 +1,8 @@
-## "stanCode" Projects
+## *stanCode* Projects
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-## Project Source Codes:
+## Watch my *DEMO VIDEOS*:
 - [Hangman Game](https://drive.google.com/file/d/1AtkL8MnjFDd_Kg6vYiNn3Lh41Ml2rjRy/view?usp=sharing)
   - python semantics & syntax
 - [Breakout Game](https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=sharing)
